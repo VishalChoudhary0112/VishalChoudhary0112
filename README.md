@@ -34,7 +34,7 @@ Got more time? ⏰ Check out my Projects
 
 📨 [vishal.vcy@gmail.com](mailto:vishal.vcy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vishalchoudhary0112)  
-📰 [Medium](https://medium.com/@choudharyv487)
+📰 [Medium](https://medium.com/@vishal.vcy)
 
 ## ⚙️ Languages and Tools  
 
