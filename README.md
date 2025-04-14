@@ -3,7 +3,6 @@
 ✨ **About Me in 30 Secs** ✨  
 📍 MSc Data Science graduate from Queen Mary University of London (Distinction)  
 📊 PGP in Data Science & Engineering from Great Learning  
-🇮🇳 Originally from India, currently based in London on a PSW visa  
 💻 Passionate about applying machine learning and analytics to real-world problems  
 🛠️ Built and deployed multiple end-to-end projects in deep learning, NLP, and SQL-based analytics  
 📝 Active on GitHub & Medium sharing projects, insights, and technical content  
