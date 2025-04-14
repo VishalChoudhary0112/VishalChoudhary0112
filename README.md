@@ -39,6 +39,6 @@ Got more time? ⏰ Check out my Projects
 ## ⚙️ Languages and Tools  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,tableau,git" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git" />
 </p>
 
