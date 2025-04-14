@@ -24,3 +24,7 @@ Got more time? ⏰ Check out my Projects
 - Time Series Forecasting, Clustering, Classification  
 - Feature Engineering, Model Evaluation, Hyperparameter Tuning  
 - Web Scraping, Data Cleaning, Data Visualization  
+
+## 📚 Projects  
+
+** https://eportfolio.mygreatlearning.com/vishal-choudhary
