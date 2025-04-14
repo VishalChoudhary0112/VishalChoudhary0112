@@ -27,4 +27,18 @@ Got more time? ⏰ Check out my Projects
 
 ## 📚 Projects  
 
-** https://eportfolio.mygreatlearning.com/vishal-choudhary
+* https://eportfolio.mygreatlearning.com/vishal-choudhary
+
+
+## 🙌 Connect with Me  
+
+📨 [vishal.vcy@gmail.com](mailto:vishal.vcy@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalchoudhary0112)  
+📰 [Medium](https://medium.com/@choudharyv487)
+
+## ⚙️ Languages and Tools  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,tensorflow,pytorch,jupyter,github,tableau,vscode,excel,git" />
+</p>
+
