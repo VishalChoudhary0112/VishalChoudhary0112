@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Vishal Choudhary
 
-<!--
-**VishalChoudhary0112/VishalChoudhary0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **About Me in 30 Secs** ✨  
+📍 MSc Data Science graduate from Queen Mary University of London (Distinction)  
+📊 PGP in Data Science & Engineering from Great Learning  
+🇮🇳 Originally from India, currently based in London on a PSW visa  
+💻 Passionate about applying machine learning and analytics to real-world problems  
+🛠️ Built and deployed multiple end-to-end projects in deep learning, NLP, and SQL-based analytics  
+📝 Active on GitHub & Medium sharing projects, insights, and technical content  
 
-Here are some ideas to get you started:
+Got more time? ⏰ Check out my Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Core Competencies  
+
+**Languages:** Python, SQL  
+**Libraries & Frameworks:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Tools & Platforms:** Jupyter Notebook, Google Colab, Tableau, Power BI, Excel, Gephi, MySQL  
+**Techniques & Concepts:**  
+- Supervised/Unsupervised Learning  
+- Deep Learning (CNNs, Neural Networks)  
+- Natural Language Processing (NLP, Sentiment Analysis)  
+- Time Series Forecasting, Clustering, Classification  
+- Feature Engineering, Model Evaluation, Hyperparameter Tuning  
+- Web Scraping, Data Cleaning, Data Visualization  
