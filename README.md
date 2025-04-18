@@ -18,11 +18,11 @@ Got more time? ⏰ Check out my Projects
 **Tools & Platforms:** Jupyter Notebook, Google Colab, Tableau, Power BI, Excel, Gephi, MySQL  
 **Techniques & Concepts:**  
 - Supervised/Unsupervised Learning  
-- Deep Learning (CNNs, Neural Networks)  
-- Natural Language Processing (NLP, Sentiment Analysis)  
+- Deep Learning  
+- Natural Language Processing 
 - Time Series Forecasting, Clustering, Classification  
 - Feature Engineering, Model Evaluation, Hyperparameter Tuning  
-- Web Scraping, Data Cleaning, Data Visualization  
+- Data Cleaning, Data Visualization  
 
 ## 📚 Projects  
 
